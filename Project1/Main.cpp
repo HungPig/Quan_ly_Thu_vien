@@ -1,0 +1,21 @@
+#include "Menu.h"
+//CUOC DOI LA NHUNG CHUYEN DI
+//CUOC DOI LA NHUNG CHUYEN DI
+//CUOC DOI LA NHUNG CHUYEN DI
+//CUOC DOI LA NHUNG CHUYEN DI
+	
+//CUOC DOI LA NHUNG CHUYEN DI
+//CUOC DOI LA NHUNG CHUYEN DI
+//LIEM LO DIT
+// TRA SUA HONG DAO 
+// TRA HONG DAO 100ML
+// TRAN TRAU DEN 30ML
+// 
+int main()
+{
+	fullscreen();
+	Hienthi();
+	menu();
+	return 0;
+}
+// Path: Project1/User_Data.h
