@@ -1,4 +1,4 @@
-# ASP.NET Core 3.1 project from TEDU
+# C++ PROJECT QUAN_LY_THU_VIEN FORM HUNG HEW
 ## Technologies
 - ASP.NET Core 3.1
 - Entity Framework Core 3.1
