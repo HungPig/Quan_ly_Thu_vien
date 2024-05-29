@@ -1,7 +1,7 @@
 # C++ PROJECT QUAN_LY_THU_VIEN FORM HUNG HEW
 ## Technologies
-- ASP.NET Core 3.1
-- Entity Framework Core 3.1
+- C++11
+- OPP (SOLID)
 ## Install Tools
 - C++ 11
 - Visual Studio 2022
